@@ -1,0 +1,17 @@
+%% filepath: images/src/06_logical_architecture.mmd
+flowchart TB
+    Dev["開発者IDE\n(VS Code/JetBrains/VS)"]
+    Copilot["GitHub Copilot\nChat/Completions"]
+    GitHub["GitHub Enterprise Cloud"]
+    Repo["Repository"]
+    Policy["Enterprise Policy\nAI Controls/Content Exclusion"]
+    Metrics["Usage Metrics\nDashboard/API/NDJSON"]
+    BI["社内BI/可視化"]
+    SecTool["SAST/CI/CD"]
+
+    Dev <--> Copilot
+    Copilot <--> GitHub
+    GitHub <--> Repo
+    Policy --> GitHub
+    GitHub --> Metrics --> BI
+    Repo --> SecTool

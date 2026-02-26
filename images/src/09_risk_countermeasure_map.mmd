@@ -1,0 +1,20 @@
+%% filepath: images/src/09_risk_countermeasure_map.mmd
+flowchart LR
+    subgraph RISK["主要リスク"]
+      R1["機密情報入力"]
+      R2["誤生成コードの混入"]
+      R3["著作権/ライセンス懸念"]
+      R4["過度依存によるスキル低下"]
+    end
+
+    subgraph CTRL["対策"]
+      C1["Content Exclusion\n入力ガイドライン"]
+      C2["レビュー基準 + テスト + SAST"]
+      C3["利用ポリシー\n法務レビュー導線"]
+      C4["教育/ペアレビュー\n定期ワークショップ"]
+    end
+
+    R1 --> C1
+    R2 --> C2
+    R3 --> C3
+    R4 --> C4

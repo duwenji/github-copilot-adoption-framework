@@ -1,0 +1,20 @@
+%% filepath: images/src/03_asis_tobe_comparison.mmd
+flowchart LR
+    subgraph ASIS["As-Is（現状）"]
+      A1["レビュー遅延"]
+      A2["属人的な実装"]
+      A3["学習コスト高"]
+      A4["効果測定が曖昧"]
+    end
+
+    subgraph TOBE["To-Be（目標）"]
+      T1["レビュー高速化"]
+      T2["標準化された開発"]
+      T3["Prompt資産で再利用"]
+      T4["KPIで可視化・改善"]
+    end
+
+    A1 --> T1
+    A2 --> T2
+    A3 --> T3
+    A4 --> T4

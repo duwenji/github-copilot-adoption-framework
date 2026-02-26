@@ -1,0 +1,15 @@
+%% filepath: images/src/07_usecase_with_screenshot_placeholder.mmd
+flowchart TB
+    U["ユースケース：テストコード生成"]
+
+    S1["1. 開発者が関数を選択"]
+    S2["2. Copilot Chatへ依頼\n'この関数の単体テストを作成'"]
+    S3["3. 提案コードをレビュー"]
+    S4["4. テスト実行・修正"]
+    S5["5. PRへ反映"]
+
+    U --> S1 --> S2 --> S3 --> S4 --> S5
+
+    CAP["[画面キャプチャ貼付領域]\n- IDE画面\n- Chat応答\n- テスト結果"]
+    S2 -. 参照 .-> CAP
+    S4 -. 参照 .-> CAP

@@ -1,0 +1,15 @@
+%% filepath: images/src/02_roadmap_phases.mmd
+flowchart LR
+    P0["Phase 0\nPrepare\n方針・KPI・体制"]
+    P1["Phase 1\nPilot\n小規模検証"]
+    P2["Phase 2\nEarly Scale\n複数チーム展開"]
+    P3["Phase 3\nEnterprise Scale\n全社標準化"]
+    P4["Phase 4\nOptimize\n継続改善"]
+
+    P0 --> P1 --> P2 --> P3 --> P4
+
+    P0 -.Exit.-> E0["ポリシー承認\nPoC設計完了"]
+    P1 -.Exit.-> E1["初期KPI確認\n運用課題把握"]
+    P2 -.Exit.-> E2["Champion定着\n標準テンプレ整備"]
+    P3 -.Exit.-> E3["統制・可視化の定常運用"]
+    

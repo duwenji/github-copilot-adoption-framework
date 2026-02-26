@@ -1,0 +1,23 @@
+%% filepath: images/src/08_kpi_dashboard_example.mmd
+flowchart TB
+    subgraph LEAD["Leading Indicators"]
+      L1["DAU/WAU"]
+      L2["利用頻度（Req/User）"]
+      L3["受入率（Acceptance Rate）"]
+    end
+
+    subgraph LAG["Lagging Indicators"]
+      G1["PR Throughput"]
+      G2["Median Time to Merge"]
+      G3["品質指標（欠陥・検知）"]
+    end
+
+    subgraph OPS["運用アクション"]
+      O1["低採用チーム特定"]
+      O2["トレーニング実施"]
+      O3["Prompt資産更新"]
+    end
+
+    LEAD --> OPS
+    LAG --> OPS
+    OPS --> R["月次レビューで改善方針決定"]

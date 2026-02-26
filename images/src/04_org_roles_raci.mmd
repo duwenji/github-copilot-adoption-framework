@@ -1,0 +1,23 @@
+%% filepath: images/src/04_org_roles_raci.mmd
+flowchart TB
+    EX["経営層/スポンサー"]
+    PMO["推進事務局（PMO）"]
+    SEC["セキュリティ/法務"]
+    IT["IT管理者（GitHub管理）"]
+    CH["Champion"]
+    DEV["開発チーム"]
+    HELP["ヘルプデスク/FAQ"]
+
+    EX --> PMO
+    PMO --> SEC
+    PMO --> IT
+    PMO --> CH
+    CH --> DEV
+    IT --> DEV
+    HELP --> DEV
+    SEC --> DEV
+
+    EX --- K1["意思決定/予算"]
+    PMO --- K2["施策管理/KPI報告"]
+    SEC --- K3["ポリシー/監査"]
+    IT --- K4["ライセンス/設定運用"]

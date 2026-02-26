@@ -1,5 +1,22 @@
 # GCAF（GitHub Copilot Adoption Framework）v1.0
 
+## 目次
+
+- [0. エグゼクティブサマリ](#0-エグゼクティブサマリ)
+- [1. CAF対応：GCAFの6つの視点（Perspectives）](#1-caf対応gcafの6つの視点perspectives)
+- [2. KPI / メトリクス（測定設計）](#2-kpi--メトリクス測定設計)
+- [3. Copilot Metrics（詳細）](#3-copilot-metrics詳細)
+- [4. 導入フェーズ（Phases）：GCAFの標準ロードマップ](#4-導入フェーズphasesgcafの標準ロードマップ)
+- [5. ガードレール（GCAF標準ポリシーひな型）](#5-ガードレールgcaf標準ポリシーひな型)
+- [6. Enablement（教育・定着の標準パッケージ）](#6-enablement教育定着の標準パッケージ)
+- [7. 最小実装チェックリスト（MRT：Minimum Required Tasks）](#7-最小実装チェックリストmrtminimum-required-tasks)
+- [8. 用語リスト（Glossary）](#8-用語リストglossary)
+- [付録A：参照資料（公式・準公式・ベンダー提供）](#付録a参照資料公式準公式ベンダー提供)
+- [次にできること（おすすめ）](#次にできることおすすめ)
+- [質問（最小限）](#質問最小限)
+- [Image一覧](#image一覧)
+
+
 ## 0. エグゼクティブサマリ
 
 *   **目的**：Copilotを“開発者の拡張（Augmentation）”として定着させ、**品質・速度・開発者体験**を同時に改善する。GitHub Copilotは、開発者の生産性を向上させるためのAIツールであり、コードの提案や補完を通じて開発プロセスを効率化します。これにより、開発者は反復的な作業から解放され、より創造的なタスクに集中できるようになります。さらに、導入後の効果を測定するための指標やベストプラクティスも提供されており、組織全体での価値を最大化することが可能です。 [measuring-the-impact-of-github-copilot](https://resources.github.com/learn/pathways/copilot/essentials/measuring-the-impact-of-github-copilot/)
@@ -16,6 +33,8 @@
 ## 1. CAF対応：GCAFの6つの視点（Perspectives）
 
 AWS CAFの「観点」をCopilotに置き換え、**6視点×成果物**で標準化します。GitHub側にも“導入・測定・設計原則”が分散資料として存在するため、それを統合してCAF相当の枠組みにします。 [wellarchitected.github.com](https://wellarchitected.github.com/features/copilot/), [enable-developers/drive-adoption](https://docs.github.com/en/copilot/tutorials/roll-out-at-scale/enable-developers/drive-adoption), [measuring-the-impact-of-github-copilot](https://resources.github.com/learn/pathways/copilot/essentials/measuring-the-impact-of-github-copilot/)
+
+![6視点の1枚絵（CAFライク）](<./images/6視点の1枚絵（CAFライク）.png>)
 
 ### 1) Business（価値・投資対効果）
 
@@ -498,6 +517,41 @@ Copilot usage metricsは、以下の5つの主要カテゴリで構成されま�
     <https://www.c-sharpcorner.com/article/github-copilot-governance-model-for-enterprises/> [c-sharpcorner.com](https://www.c-sharpcorner.com/article/github-copilot-governance-model-for-enterprises/)
 *   **copilot-metrics-dashboard（アクセラレータ）**  
     <https://github.com/microsoft/copilot-metrics-dashboard> [github.com](https://github.com/microsoft/copilot-metrics-dashboard)
+
+---
+
+## 付録B：Image一覧
+
+1. **全体像（6視点の1枚絵）**  
+   - 目的: 全体構造を一目で把握する  
+   - 画像: `6視点の1枚絵（CAFライク）.png`
+
+2. **導入ロードマップ（フェーズ図）**  
+   - 目的: 実施順序と期間を明確化する
+
+3. **現状 vs 目標（As-Is / To-Be比較図）**  
+   - 目的: 変化点と期待効果を示す
+
+4. **組織体制図（役割・責任範囲）**  
+   - 目的: 担当者と責任分界を明確化する
+
+5. **業務フロー図（Before/After）**  
+   - 目的: プロセス改善点を可視化する
+
+6. **システム構成図（論理アーキテクチャ）**  
+   - 目的: ツール・データ連携関係を整理する
+
+7. **ユースケース例（画面キャプチャ付き）**  
+   - 目的: 利用シナリオを具体化する
+
+8. **KPIダッシュボード例（成果指標）**  
+   - 目的: 効果を定量的に示す
+
+9. **リスクと対策マップ**  
+   - 目的: 想定課題と対策方針を共有する
+
+10. **FAQ/よくある誤解の図解**  
+    - 目的: 読者の疑問を事前に解消する
 
 ---
 

@@ -1,0 +1,24 @@
+%% filepath: images/src/01_overview_6_perspectives.mmd
+flowchart TB
+    GCAF["GCAF 導入フレームワーク"]
+
+    B["Business\n価値・ROI"]
+    P["People\n人材・定着"]
+    G["Governance\nポリシー・知財"]
+    PL["Platform\n環境・標準化"]
+    S["Security\nセキュリティ・プライバシー"]
+    O["Operations\n運用・改善"]
+
+    GCAF --> B
+    GCAF --> P
+    GCAF --> G
+    GCAF --> PL
+    GCAF --> S
+    GCAF --> O
+
+    B --> KPI["KPI/効果測定"]
+    P --> Enable["教育/Champion"]
+    G --> Policy["利用ポリシー"]
+    PL --> Std["IDE/Repo標準"]
+    S --> Guard["ガードレール"]
+    O --> Loop["測定→改善ループ"]

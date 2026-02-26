@@ -1,0 +1,13 @@
+%% filepath: images/src/05_process_before_after.mmd
+flowchart LR
+    subgraph BEFORE["Before"]
+      B1["要件確認"] --> B2["実装"] --> B3["自己テスト"] --> B4["PR作成"] --> B5["レビュー"] --> B6["修正往復"] --> B7["マージ"]
+    end
+
+    subgraph AFTER["After（Copilot活用）"]
+      A1["要件確認"] --> A2["Copilotで実装支援"]
+      A2 --> A3["Copilotでテスト雛形生成"]
+      A3 --> A4["PR作成"]
+      A4 --> A5["Copilotレビュー補助+人レビュー"]
+      A5 --> A6["修正（短縮）"] --> A7["マージ"]
+    end
