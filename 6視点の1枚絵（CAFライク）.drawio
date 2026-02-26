@@ -1,0 +1,85 @@
+<mxfile host="65bd71144e">
+    <diagram id="uRMa13rSpmSfRJ6SEA7A" name="pageWithNumber">
+        <mxGraphModel dx="746" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="9" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(36, 41, 46);&quot;&gt;&lt;b&gt;6つのパースペクティブ&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="110" width="560" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="70" y="150" width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #24292e;&quot;&gt;Business&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #24292e;&quot;&gt;価値・投資対効果&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;labelBorderColor=none;fontStyle=1" parent="14" vertex="1">
+                    <mxGeometry width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #24292e;&quot;&gt;価値仮説・KPI定義&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCFFFF;" parent="14" vertex="1">
+                    <mxGeometry x="5" y="50" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #24292e;&quot;&gt;PoC評価レポート&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCFFFF;" parent="14" vertex="1">
+                    <mxGeometry x="5" y="80" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="250" y="150" width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(36, 41, 46);&quot;&gt;People&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(36, 41, 46);&quot;&gt;人材・組織・チェンジ&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;labelBorderColor=none;fontStyle=1" vertex="1" parent="15">
+                    <mxGeometry width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #24292e;&quot;&gt;Champion運用&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCFFFF;" vertex="1" parent="15">
+                    <mxGeometry x="5" y="50" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #24292e;&quot;&gt;研修・Prompt標準&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCFFFF;" vertex="1" parent="15">
+                    <mxGeometry x="5" y="80" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="430" y="150" width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #24292e;&quot;&gt;Business&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #24292e;&quot;&gt;価値・投資対効果&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;labelBorderColor=none;fontStyle=1" vertex="1" parent="19">
+                    <mxGeometry width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #24292e;&quot;&gt;利用ポリシー&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCFFFF;" vertex="1" parent="19">
+                    <mxGeometry x="5" y="50" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #24292e;&quot;&gt;例外申請フロー&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCFFFF;" vertex="1" parent="19">
+                    <mxGeometry x="5" y="80" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="70" y="280" width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(36, 41, 46);&quot;&gt;Platform&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(36, 41, 46);&quot;&gt;開発環境・標準化・拡張&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;labelBorderColor=none;fontStyle=1" vertex="1" parent="23">
+                    <mxGeometry width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #24292e;&quot;&gt;標準IDE/設定&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCE5FF;" vertex="1" parent="23">
+                    <mxGeometry x="5" y="50" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #24292e;&quot;&gt;prompt files資産&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCFFFF;" vertex="1" parent="23">
+                    <mxGeometry x="5" y="80" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="250" y="280" width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;font-size: 14px; color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(36, 41, 46);&quot;&gt;Security&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(36, 41, 46);&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;セキュリティ・プライバシー&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;labelBorderColor=none;fontStyle=1" vertex="1" parent="27">
+                    <mxGeometry width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #24292e;&quot;&gt;Content Exclusion&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCFFFF;" vertex="1" parent="27">
+                    <mxGeometry x="5" y="50" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #24292e;&quot;&gt;レビュー/テスト/SAST&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCFFFF;" vertex="1" parent="27">
+                    <mxGeometry x="5" y="80" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="430" y="280" width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(36, 41, 46);&quot;&gt;Operations&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(36, 41, 46);&quot;&gt;運用・測定・改善&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;labelBorderColor=none;fontStyle=1" vertex="1" parent="31">
+                    <mxGeometry width="160" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #24292e;&quot;&gt;Usage Metrics可視化&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCFFFF;" vertex="1" parent="31">
+                    <mxGeometry x="5" y="50" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;div style=&quot;color: rgb(36, 41, 46); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;div style=&quot;color: rgb(36, 41, 46); line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #24292e;&quot;&gt;定例改善バックログ&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCFFFF;" vertex="1" parent="31">
+                    <mxGeometry x="5" y="80" width="150" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
