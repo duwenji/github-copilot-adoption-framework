@@ -3,8 +3,6 @@
   "outputDir": "./ebook-output",
   "projectName": "github-copilot-adoption-framework",
   "metadataFile": "./.github/skills-config/ebook-build/github-copilot-adoption-framework.metadata.yaml",
-  "formats": ["epub", "azw3", "mobi"],
-  "enablePageList": true,
   "chapterDirPattern": "^\\d{2}-",
   "chapterFilePattern": "^\\d{2}-.*\\.md$",
   "coverFile": "00-COVER.md"
