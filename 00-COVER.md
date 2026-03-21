@@ -15,6 +15,8 @@
 
 本書は、企業・組織全体でGitHub Copilotを安全かつ効果的に導入・運用するための包括的なフレームワーク（GCAF: GitHub Copilot Adoption Framework）です。
 
+> 💡 ブラウザで https://duwenji.github.io/spa-quiz-app/ を開くと、この教材をクイズ形式で学習できます。
+
 AWS Cloud Adoption Framework（CAF）の考え方を応用し、Copilot導入に必要な**6つの視点**（Business・People・Governance・Platform・Security・Operations）を体系的に整理しました。
 
 ---
