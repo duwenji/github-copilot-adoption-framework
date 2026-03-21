@@ -188,6 +188,38 @@ GitHub Copilot Chatの**高度な機能リファレンス**です。チャット
 5. **本格展開**
    - 全社ロールアウト前に「最小実装チェックリスト」を確認
 
+## 🧩 Shared Skill 統一導線（Quiz + Ebook）
+
+このリポジトリは `shared-copilot-skills` を使ってクイズセット生成と電子書籍生成を行います。
+
+- Quiz validation wrapper: `./.github/skills-config/quiz-generator/invoke-validate.ps1`
+- Quiz config: `./.github/skills-config/quiz-generator/quiz-generator.config.json`
+- Ebook build wrapper: `./.github/skills-config/ebook-build/invoke-build.ps1`
+- Ebook config: `./.github/skills-config/ebook-build/github-copilot-adoption-framework.build.json`
+
+実行例:
+
+```powershell
+cd c:\dev\apps\github-copilot-adoption-framework
+
+# Quiz metadata / question validation
+.\.github\skills-config\quiz-generator\invoke-validate.ps1 -Mode all
+
+# Ebook build
+.\.github\skills-config\ebook-build\invoke-build.ps1
+```
+
+注記:
+- ebook-build は `00-COVER.md` と `01-*` 以降の章構造を前提とします。
+- 現在のドキュメント構造のまま使う場合は、章フォルダ命名を build config 側で調整してください。
+
+### 今後対応する課題
+
+- 現在のリポジトリ構造は ebook-build の原稿前提を満たしていません。
+- 不足している要素は `00-COVER.md`、`01-*` 形式の章ディレクトリ、章配下の番号付き Markdown ファイルです。
+- skill 連携自体は追加済みですが、ebook 生成は原稿構造の整備後に正式運用します。
+- この対応は今後のタスクとして扱い、本 README では課題として明示します。
+
 ---
 
 ## 📊 主要な成果物チェックリスト
