@@ -1,8 +1,10 @@
 # レビュー観点チェックリスト（GitHub Copilot利用時）
 
+> **関連ドキュメント**: [導入フレームワーク](../01-framework/01-overview.md) | [ポリシーひな型](../02-governance/01-policy-template.md) | [Content Exclusion推奨パターン集](../02-governance/02-content-exclusion.md)
+
 - 文書番号：`[REV-COPILOT-001]`
 - 版数：`v0.1`
-- 最終更新日：`[YYYY-MM-DD]`
+- 最終更新日：`2026-03-21`
 - 対象：`C# / .NET プロジェクト（必要に応じて他言語へ横展開）`
 
 ---
