@@ -193,6 +193,7 @@ GitHub Copilot Chatの**高度な機能リファレンス**です。チャット
 ## 🧩 Shared Skill 統一導線（Quiz + Ebook）
 
 このリポジトリは `shared-copilot-skills` を使ってクイズセット生成と電子書籍生成を行います。
+submodule 方式はリポジトリ単位の導入になるため、個別スキルのみを選択して導入することはできません。
 
 - Quiz validation wrapper: `./.github/skills-config/quiz-generator/invoke-validate.ps1`
 - Quiz config: `./.github/skills-config/quiz-generator/quiz-generator.config.json`
