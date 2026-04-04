@@ -1,5 +1,5 @@
 {
-  "sourceRoot": ".",
+  "sourceRoot": "./docs",
   "outputDir": "./ebook-output",
   "projectName": "github-copilot-adoption-framework",
   "metadataFile": "./.github/skills-config/ebook-build/github-copilot-adoption-framework.metadata.yaml",

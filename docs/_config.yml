@@ -1,0 +1,6 @@
+title: GitHub Copilot Adoption Framework
+description: GitHub Copilot の組織導入と運用を学ぶ日本語フレームワーク
+baseurl: "/github-copilot-adoption-framework"
+url: "https://duwenji.github.io"
+theme: minima
+markdown: kramdown
