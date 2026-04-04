@@ -34,7 +34,7 @@
 
 ## 1. CAF対応：GCAFの6つの視点（Perspectives）
 
-AWS CAFの「観点」をCopilotに置き換え、**6視点×成果物**で標準化します。GitHub側にも“導入・測定・設計原則”が分散資料として存在するため、それを統合してCAF相当の枠組みにします。 [wellarchitected.github.com](https://wellarchitected.github.com/features/copilot/), [enable-developers/drive-adoption](https://docs.github.com/en/copilot/tutorials/roll-out-at-scale/enable-developers/drive-adoption), [measuring-the-impact-of-github-copilot](https://resources.github.com/learn/pathways/copilot/essentials/measuring-the-impact-of-github-copilot/)
+AWS CAFの「観点」をCopilotに置き換え、**6視点×成果物**で標準化します。GitHub側にも“導入・測定・設計原則”が分散資料として存在するため、それを統合してCAF相当の枠組みにします。日常開発へ落とし込む具体的な標準フローは、補完教材の [開発プロセス標準化 Skill ライブラリ](https://github.com/duwenji/dev-process-skill-library) と組み合わせる想定です。 [wellarchitected.github.com](https://wellarchitected.github.com/features/copilot/), [enable-developers/drive-adoption](https://docs.github.com/en/copilot/tutorials/roll-out-at-scale/enable-developers/drive-adoption), [measuring-the-impact-of-github-copilot](https://resources.github.com/learn/pathways/copilot/essentials/measuring-the-impact-of-github-copilot/)
 
 ![6視点の1枚絵（CAFライク）](<../images/6視点の1枚絵（CAFライク）.png>)
 

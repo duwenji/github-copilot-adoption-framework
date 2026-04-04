@@ -4,6 +4,8 @@
 
 > 💡 ブラウザで https://duwenji.github.io/spa-quiz-app/ を開くと、この教材をクイズ形式で学習できます。
 
+> 🧭 **補完教材:** Copilot を日常開発へ定着させるには、要件整理・設計判断・品質ゲート・リリース判定まで含めた標準プロセスも重要です。具体的な実務フローは [開発プロセス標準化 Skill ライブラリ](https://github.com/duwenji/dev-process-skill-library) を併用してください。
+
 ---
 
 ## 📚 ドキュメント構成
