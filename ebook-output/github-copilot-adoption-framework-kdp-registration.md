@@ -1,6 +1,6 @@
 # KDP 登録情報一式: GitHub Copilot Adoption Framework
 
-- 生成日時: 2026-04-05 13:01:15
+- 生成日時: 2026-04-05 13:34:34
 - プロジェクト名: github-copilot-adoption-framework
 - 元メタデータ: C:\dev\apps\github-copilot-adoption-framework\.\.github\skills-config\ebook-build\github-copilot-adoption-framework.metadata.yaml
 - KDP 追加メタデータ: C:\dev\apps\github-copilot-adoption-framework\.\.github\skills-config\ebook-build\github-copilot-adoption-framework.kdp.yaml
