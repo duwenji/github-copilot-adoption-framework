@@ -1,6 +1,6 @@
 # KDP 登録情報一式: GitHub Copilot Adoption Framework
 
-- 生成日時: 2026-04-05 13:34:34
+- 生成日時: 2026-04-08 23:00:52
 - プロジェクト名: github-copilot-adoption-framework
 - 元メタデータ: C:\dev\apps\github-copilot-adoption-framework\.\.github\skills-config\ebook-build\github-copilot-adoption-framework.metadata.yaml
 - KDP 追加メタデータ: C:\dev\apps\github-copilot-adoption-framework\.\.github\skills-config\ebook-build\github-copilot-adoption-framework.kdp.yaml
@@ -13,9 +13,9 @@
 | サブタイトル | 導入計画・ガバナンス・定着化を体系化する実践ガイド |
 | 著者 | 杜 文吉 |
 | 言語 | ja-JP |
-| 出版社 | Duwenji |
-| 権利 | Copyright (c) Duwenji |
-| 識別子 | gcaf-v1 |
+| 出版社 | GitHub |
+| 権利 | Creative Commons Attribution 4.0 International License |
+| 識別子 | github-copilot-adoption-framework-v1 |
 | 出版日 | 2026-03-21 |
 | ISBN | Kindle 版のみなら通常不要 |
 

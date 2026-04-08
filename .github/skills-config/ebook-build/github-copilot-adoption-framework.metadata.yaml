@@ -1,13 +1,33 @@
-title: GitHub Copilot Adoption Framework
-creator: 杜 文吉
+title: "GitHub Copilot Adoption Framework"
+subtitle: "導入計画・ガバナンス・定着化を体系化する実践ガイド"
+creator: "杜 文吉"
+date: "2026-03-21"
 language: ja-JP
-rights: Copyright (c) Duwenji
-publisher: Duwenji
-date: 2026-03-21
+publisher: "GitHub"
+rights: "Creative Commons Attribution 4.0 International License"
+identifier: "github-copilot-adoption-framework-v1"
+description: |
+  GitHub Copilot の組織導入を、評価、ガバナンス、教育、定着化まで一貫して設計するための
+  実践フレームワークです。
+  個人利用からチーム標準化、運用ポリシー、導入指標、展開ロードマップまで、
+  マネージャーと技術リーダー双方に役立つ観点を整理しています。
+keywords:
+  - GitHub Copilot
+  - Adoption
+  - Governance
+  - Developer Productivity
+  - Enablement
+  - AI Coding Assistant
+  - Engineering Management
+cover: "00-COVER.md"
 toc: true
 toc-depth: 2
-identifier: gcaf-v1
-subject:
-  - github copilot
-  - governance
-  - adoption
+chapters:
+  auto-discover: true
+  dir-pattern: "^\\d{2}-"
+  file-pattern: "^\\d{2}-.*\\.md$"
+include-readme: false
+version: "0.1"
+revision-date: "2026-04-08"
+license: "CC-BY-4.0"
+license-url: "https://creativecommons.org/licenses/by/4.0/"
